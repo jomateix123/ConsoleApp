@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         int GetResult()
         {
-            return 21;
+            return 22;
         }
 
         int LaProva()
