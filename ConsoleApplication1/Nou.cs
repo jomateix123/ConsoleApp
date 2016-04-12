@@ -8,10 +8,19 @@ namespace ConsoleApplication1
 {
     class Nou
     {
-        int LaProva()
+        int GetResult()
         {
-            return 12;
+            return 9;
 
+        }
+
+        class Nou
+        {
+            int LaProva()
+            {
+                return 12;
+
+            }
         }
     }
 }
