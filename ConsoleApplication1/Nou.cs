@@ -11,16 +11,11 @@ namespace ConsoleApplication1
         int GetResult()
         {
             return 9;
-
         }
 
-        class Nou
+        int LaProva()
         {
-            int LaProva()
-            {
-                return 12;
-
-            }
+            return 12;
         }
     }
 }
