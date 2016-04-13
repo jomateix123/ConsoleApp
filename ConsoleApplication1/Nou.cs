@@ -8,7 +8,7 @@ namespace ConsoleApplication1
 {
     class Nou
     {
-        private int º   ;
+        private int print;
 
         int LaProva_()
         {
@@ -22,7 +22,7 @@ namespace ConsoleApplication1
 
         int LaProvaNova()
         {
-            prit = 12;
+            print = 12;
 
             return 33;
         }
@@ -30,6 +30,7 @@ namespace ConsoleApplication1
         int GetResult()
         {
             return 9;
-        }
+        }   
     }
 }
+    
