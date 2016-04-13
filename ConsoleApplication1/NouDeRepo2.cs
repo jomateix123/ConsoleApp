@@ -10,5 +10,14 @@ namespace ConsoleApplication1
     class NouDeRepo2
     {
 
+	    int DeProva()
+        {
+	    	return 0;
+        }
+
+        int DeProva2()
+        {
+            return 1;
+        }
     }
 }
