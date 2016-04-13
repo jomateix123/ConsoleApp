@@ -23,5 +23,10 @@ namespace ConsoleApplication1
         {
         	return 33;
         }
+
+        int GetResult()
+        {
+            return 9;
+        }
     }
 }
