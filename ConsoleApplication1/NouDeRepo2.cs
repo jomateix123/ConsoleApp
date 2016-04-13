@@ -22,7 +22,7 @@ namespace ConsoleApplication1
 
         int DeProva32()
         {
-        	return 32;
+        	return 4;
         }
     }
 }
