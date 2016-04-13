@@ -20,9 +20,9 @@ namespace ConsoleApplication1
             return 1;
         }
 
-        int DeProva4()
+        int DeProva32()
         {
-            return 4;
+        	return 32;
         }
     }
 }
