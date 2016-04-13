@@ -17,5 +17,10 @@ namespace ConsoleApplication1
         {
             return 15;
         }
+
+        int LaProvaNova()
+        {
+            return 33;
+        }
     }
 }
